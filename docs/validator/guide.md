@@ -669,3 +669,5 @@ Ensure your config file has `store.load_mem_tries_for_tracked_shards` set to `tr
 - **Telegram:** [NEAR Validators](https://t.me/near_validators)
 - **Discord:** [NEAR Protocol Discord](https://discord.gg/nearprotocol)
 
+
+<!-- Auto-update: 2025-10-15T16:03:52.659916 -->

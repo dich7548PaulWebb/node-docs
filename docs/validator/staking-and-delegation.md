@@ -106,3 +106,5 @@ near call <stakingPoolId> ping '{}' --accountId <accountId> --gas=30000000000000
 >Got a question?
 <a href="https://stackoverflow.com/questions/tagged/nearprotocol">
   <h8>Ask it on StackOverflow!</h8></a>
+
+<!-- Auto-update: 2025-10-16T11:18:01.781683 -->
